@@ -1,2 +1,2 @@
 # Dungeon_Game
- Course project OOP
+ Text based dungeon crawler for a course in OOP.
